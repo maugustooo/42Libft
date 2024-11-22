@@ -2,6 +2,10 @@
 
 First library for school 42. Always updating.
 
+<div align="center">
+	<h1><a href="https://github.com/maugustooo/42libft/blob/main/en.subject.pdf">Subject</a></h1>
+</div>
+
 ## PART 1
 
 ### Replicas of <ctype.h>
